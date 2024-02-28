@@ -1,5 +1,7 @@
 {
+	"include": ["src", "src/Api/getCityWeather.tsx", "index.d.ts"],
 	"compilerOptions": {
+		"baseUrl": "src",
 		"jsx": "react-jsx"
 	}
 }

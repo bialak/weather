@@ -1,0 +1,17 @@
+.resultSearchedCard {
+	background-color: rgb(136, 181, 206);
+	width: 80%;
+	height: 60%;
+	margin: 0 auto;
+	margin-top: 5%;
+	color: white;
+	font-size: 2.2rem;
+	border-radius: 10%;
+	text-align: center;
+	box-shadow: 3px 16px 24px 13px rgba(66, 68, 90, 1);
+	border: 2px solid white;
+}
+
+.temperature {
+	text-align: center;
+}
